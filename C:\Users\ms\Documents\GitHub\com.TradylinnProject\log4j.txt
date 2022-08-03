@@ -1,0 +1,8 @@
+2022-07-28 23:30:19 INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-07-28 23:30:19 INFO  WebDriverManager:1534 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-07-28 23:30:19 INFO  Downloader:127 - Downloading https://chromedriver.storage.googleapis.com/103.0.5060.134/chromedriver_mac64.zip
+2022-07-28 23:30:21 INFO  Downloader:188 - Extracting driver from compressed file chromedriver_mac64.zip
+2022-07-28 23:30:21 INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/erstemacbook/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-07-28 23:30:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/erstemacbook/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
